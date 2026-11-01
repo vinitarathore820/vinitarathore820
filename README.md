@@ -49,7 +49,7 @@ A full-stack quiz platform with secure authentication, category-wise quizzes, mu
 
 **Tech:** React.js · Node.js · Express.js · MongoDB · REST APIs
 
-🔗 [Live Demo](https://quizzzyapp.netlify.app) · 💻 [Source Code](https://github.com/vinitarathore820/REPLACE-WITH-REPO-NAME)
+🔗 [Live Demo](https://quizzzyapp.netlify.app) · 💻 [Source Code](https://github.com/vinitarathore820/Newzilla)
 
 ---
 
